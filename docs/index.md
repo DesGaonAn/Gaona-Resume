@@ -1,89 +1,88 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Desiree Gaona Angles
+Supply chain Analysist.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="dessysh97@gmail.com">dessysh97@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/desireegaona/">LinkedIn</a>
+| <a href="https://github.com/DesGaonAn">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Business Management and Operations__, Bachelors Degree \
+__Business Analytics__, Minor \
+__Data Science__, Certificate \
+Brigham Young University Idaho
 
-- Full academic scholarship with 4.0 GPA
+`Expected April 2024`
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- 3.5 GPA
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+__Amazon__ \
+__Area Manager Intern__, Salt Lake City, UT 
+`June 2023 - September 2023`
 
-### Data Science Lead
+- Directed and designed an inventory store process improvement project.Implemented ideas and findings reducing 12K annual costs and increasingproductivity by 20%
+- Trained associates on order-picking warehouses process standards and bestpractices improving quality by 10%
+- Managed daily operations of a fulfillment center associated with inventory,
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Experience
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+__Regoers Premium Groomming Products__ \
+__Co-founder & HR Officer__, Rexburg, ID
+`January 2023 - April 2023`
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+A semester-long business immersion experience in teamwork, marketing, operations,
+and finance 
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Co-founded Roger's, a student-led, consumer packaged goods business offeringcustomized lotions, shaving cream, etc. to the 20,000 students at BYU-Idahoreaching 6.3K dollars in revenue.
+- Managed the Human Resources department creating
+initiatives to increaseproductivity and efficiency among company members
+and reported the resultsevery three weeks to a board of directors
 
 
-## Service and Work History
+__Brigham Young University Idaho__ \
+__Lead Curriculum Processor__, Rexburg, ID
+`April 2022- Present`
 
-`2025-2027`
-__Math Tutor__, LDSBC
+Office: Student Records and Registration
+
+- Examined university courses' pre-requirements processing into the school's databasesto guarantee students an 80% flawless registration process through data analysis toolssuch as Excel formulas
+- Engaged, led, and collaborated in teamwork problem-solving research withDepartment
+
+## Skills
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
+## Voluntary Work
+
+__Peer Mentor__, Rexburg, ID
+`January 2022 - April 2022`
+Brigham Young University Idaho 
+
+- Led group activities of 20 people to strengthen relationships betweencollaborators
+
+__Supply Chain Society President__, Rexburg, ID
+`April 2023 - June 2023`
+Brigham Young University Idaho 
+
+- Managed Society Meetings once a week to practice soft skills to attain an interview and job offer.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2024 -->
 
 
